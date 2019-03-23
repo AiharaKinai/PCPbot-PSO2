@@ -1,0 +1,23 @@
+===PROXY===
+Instal dulu python 2.7 keatas di server nya
+terus upload backup proxy ke server
+terus masuk ke cd PSO2Proxy/proxy
+terus run python PSO2Proxy.py
+
+===BOT discord===
+Instal node.js sama NPM nya dulu.
+terus upload semua backup bot ke server
+terus instal (npm instal discord.js, sama npm instal commando)
+klo error jalanin npm instal rebuild, terus instal npm nya didalam direktori bot.
+
+===Gchat===
+instal ngIRCd nya dulu
+pake command sudo apt-get install ngircd.
+terus buka mIRC nya coba connect kan ke server,
+jika connect buatlah grup di mIRC dan samakan dengan config di folder cfg proxy nya...
+jika sudah terhubung, buat discord-irc nya
+cara nya
+upload semua backup discord-irc nya, terus npm install discord-irc
+terus discord-irc --config ./config.json.
+
+NOTE : jangan lupa instal app screen nya sudo apt-get install screen :)

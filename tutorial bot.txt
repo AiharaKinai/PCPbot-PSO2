@@ -1,0 +1,3 @@
+step step
+1. instal node.js versi 7 keatas
+2. instal npm serta module yg diminta kaze
